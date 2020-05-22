@@ -1,0 +1,4 @@
+entity Servidor {
+	nome String required maxlength(255)
+}
+
